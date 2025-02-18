@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://jandes-pirang.github.io/sexy-girls/sitemap.xml
